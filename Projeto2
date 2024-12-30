@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "created_at": "2024-01-20T01:40:28.201725+00:00",
+    "nome_produto": "O Clássico Reinventado",
+    "descricao": "Um hambúrguer para os verdadeiros apreciadores do clássico. Este hambúrguer traz um suculento disco de carne bovina, grelhado à perfeição. Acompanhado de alface crocante, tomate maduro e cebola roxa, tudo envolvido por duas fatias de queijo cheddar derretido. O pão de brioche, levemente tostado, é finalizado com uma camada generosa de nossa maionese caseira. Uma combinação atemporal que nunca decepciona.",
+    "destaque": true,
+    "categoria": "Hamburguer",
+    "preco": 39.99,
+    "imagem": "https://i.ibb.co/1vnPjnK/1.png"
+  },
+  {
+    "id": 2,
+    "created_at": "2024-01-20T01:43:14.738801+00:00",
+    "nome_produto": "O Fogo do Churrasco",
+    "descricao": "Este hambúrguer é uma homenagem aos clássicos churrascos ao ar livre. Um disco de carne bovina, temperado com um blend especial de especiarias para churrasco, traz o sabor defumado e intenso. Coberto com fatias de bacon crocante e queijo prato derretido, cada mordida é uma experiência única",
+    "destaque": false,
+    "categoria": "Hamburguer",
+    "preco": 25,
+    "imagem": "https://i.ibb.co/TP1D5Kb/2.png"
+  },
+  {
+    "id": 3,
+    "created_at": "2024-01-20T01:46:07.955192+00:00",
+    "nome_produto": "O Pimenta Picante",
+    "descricao": "Este hambúrguer é para quem ama um toque picante. Conta com um suculento disco de carne bovina, coberto com queijo pepper jack derretido, fatias finas de pimenta jalapeño, e uma generosa porção de molho picante. Servido em um pão de chili tostado para complementar o calor.",
+    "destaque": false,
+    "categoria": "Hamburguer",
+    "preco": 35,
+    "imagem": "https://i.ibb.co/88WcnYz/3.png"
+  },
+  {
+    "id": 4,
+    "created_at": "2024-01-20T01:46:52.589934+00:00",
+    "nome_produto": "O Frango Crocante",
+    "descricao": "Um hambúrguer leve e crocante. Apresenta um filé de frango empanado e frito até ficar dourado, coberto com alface americana fresca, tomate, e uma camada de maionese de alho. Servido em um pão macio de batata",
+    "destaque": false,
+    "categoria": "Hamburguer",
+    "preco": 28.17,
+    "imagem": "https://i.ibb.co/jGPJXCT/4.png"
+  },
+  {
+    "id": 5,
+    "created_at": "2024-01-20T01:48:27.98086+00:00",
+    "nome_produto": "O Bacon Supremo",
+    "descricao": "Para os amantes de bacon, este hambúrguer é um sonho. Um disco de carne suculenta coberto com camadas generosas de bacon crocante, queijo cheddar forte, e cebolas caramelizadas. Finalizado com um molho barbecue defumado, tudo em um pão de pretzel macio.",
+    "destaque": false,
+    "categoria": "Hamburguer",
+    "preco": 27.56,
+    "imagem": "https://i.ibb.co/vXFvVr5/5.png"
+  },
+  {
+    "id": 6,
+    "created_at": "2024-01-20T03:38:01.420494+00:00",
+    "nome_produto": "Margherita",
+    "descricao": "Simplicidade e sabor em cada fatia. Molho de tomate artesanal, muçarela fresca, manjericão e um toque de azeite extra virgem.",
+    "destaque": true,
+    "categoria": "Pizza",
+    "preco": 34.9,
+    "imagem": "https://i.ibb.co/7bdndNT/6.png"
+  },
+  {
+    "id": 7,
+    "created_at": "2024-01-20T03:38:46.020589+00:00",
+    "nome_produto": "Pepperoni",
+    "descricao": "Uma clássica favorita. Fatias generosas de pepperoni picante sobre uma camada rica de molho de tomate e queijo muçarela derretido.",
+    "destaque": false,
+    "categoria": "Pizza",
+    "preco": 33.13,
+    "imagem": "https://i.ibb.co/BPCWTZ8/7.png"
+  },
+  {
+    "id": 8,
+    "created_at": "2024-01-20T03:39:32.69367+00:00",
+    "nome_produto": "Quatro Queijos",
+    "descricao": "Para os amantes de queijo. Uma combinação de muçarela, gorgonzola, parmesão, e catupiry, derretidos harmoniosamente sobre molho de tomate.",
+    "destaque": false,
+    "categoria": "Pizza",
+    "preco": 24.79,
+    "imagem": "https://i.ibb.co/B3SbfxL/8.png"
+  },
+  {
+    "id": 9,
+    "created_at": "2024-01-20T03:40:00.737303+00:00",
+    "nome_produto": "Frango com Catupiry",
+    "descricao": "Uma combinação brasileira. Frango desfiado e temperado, coberto com catupiry cremoso e finalizado com azeitonas e cebola.",
+    "destaque": true,
+    "categoria": "Pizza",
+    "preco": 24.03,
+    "imagem": "https://i.ibb.co/7CmXbT4/9.png"
+  },
+  {
+    "id": 10,
+    "created_at": "2024-01-20T03:40:24.42928+00:00",
+    "nome_produto": "Vegetariana",
+    "descricao": "Frescor em cada fatia. Pimentões, cebolas, cogumelos, azeitonas pretas e tomate, tudo sobre uma camada de molho de tomate e muçarela.",
+    "destaque": true,
+    "categoria": "Pizza",
+    "preco": 30.02,
+    "imagem": "https://i.ibb.co/6JBV97H/10.png"
+  }
+]
